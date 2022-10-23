@@ -1,0 +1,2 @@
+# Don't include pretrained Google model for Word2Vec
+*.bin
